@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background-color: #4158A6;
+}
+
+.main-title {
+    text-align: center;
+}
+.main-content {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.main-content article {
+    display: grid;
+    grid-template-columns: 1fr 20px 1fr;
+    align-items: center;
+    background-color: #F1DEC6
+}
+
+.main-content article h3 {
+    grid-column: 1 / -1;
+    background-color: #179BAE;
+    margin: 0;
+}
+
+.main-content article img {
+    grid-column: 1;
+}
+
+.main-content article .info{
+    padding-inline-end: 1em;
+    grid-column: 3;
+    font-weight: bold;
+}
+
+.main-content article .info li{
+    display: flex;
+    justify-content: space-between
+}
+.main-content article .info li span{
+    font-weight: 400;
+}
