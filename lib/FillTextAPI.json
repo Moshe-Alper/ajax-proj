@@ -1,0 +1,92 @@
+[
+    {
+        "fname": "Aesha",
+        "lname": "Scheppe",
+        "tel": "(354)736-3125",
+        "address": "201 Aenean Ln",
+        "city": "Sacramento",
+        "state": "TN",
+        "zip": 23160
+    },
+    {
+        "fname": "Deborah",
+        "lname": "Monroe",
+        "tel": "(898)125-8910",
+        "address": "6798 Placerat Ln",
+        "city": "Wauwatosa",
+        "state": "NV",
+        "zip": 15058
+    },
+    {
+        "fname": "Bobby",
+        "lname": "Glean",
+        "tel": "(306)891-3825",
+        "address": "363 Vestibulum Rd",
+        "city": "Centreville",
+        "state": "CO",
+        "zip": 72369
+    },
+    {
+        "fname": "Chaiporn",
+        "lname": "Zuniga",
+        "tel": "(448)038-7993",
+        "address": "5709 Sed Ct",
+        "city": "Cape Coral",
+        "state": "AK",
+        "zip": 85113
+    },
+    {
+        "fname": "Fernando",
+        "lname": "Polenz",
+        "tel": "(792)007-0494",
+        "address": "1515 Augue Ave",
+        "city": "Emmaus",
+        "state": "AK",
+        "zip": 51025
+    },
+    {
+        "fname": "Regine",
+        "lname": "Shay",
+        "tel": "(200)514-1779",
+        "address": "6600 Morbi St",
+        "city": "Albuquerque",
+        "state": "CA",
+        "zip": 93275
+    },
+    {
+        "fname": "Maki",
+        "lname": "Boynton",
+        "tel": "(459)780-9924",
+        "address": "139 Tellus Ct",
+        "city": "Massillon",
+        "state": "IA",
+        "zip": 64017
+    },
+    {
+        "fname": "Kyle",
+        "lname": "Woodhouse",
+        "tel": "(555)236-0995",
+        "address": "7966 Dolor Dr",
+        "city": "Columbus",
+        "state": "AR",
+        "zip": 53489
+    },
+    {
+        "fname": "Mary",
+        "lname": "Mcmullin",
+        "tel": "(319)716-7170",
+        "address": "1621 Risus Ave",
+        "city": "Eglin Afb",
+        "state": "NJ",
+        "zip": 10290
+    },
+    {
+        "fname": "Roberta",
+        "lname": "Ferreira",
+        "tel": "(339)986-2283",
+        "address": "7440 Ipsum Rd",
+        "city": "Mount Vernon",
+        "state": "OH",
+        "zip": 30736
+    }
+]
