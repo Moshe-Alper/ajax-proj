@@ -6,38 +6,48 @@ body {
 .main-title {
     text-align: center;
 }
+
 .main-content {
-    max-width: 400px;
+    max-width: min(600px, 80vw);
     margin: 0 auto;
 }
 
-.main-content article {
+.address-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1em;
+    grid-auto-flow: dense;
+
+}
+
+.address-section article {
     display: grid;
     grid-template-columns: 1fr 20px 1fr;
     align-items: center;
     background-color: #F1DEC6
 }
 
-.main-content article h3 {
+.address-section article h3 {
     grid-column: 1 / -1;
     background-color: #179BAE;
     margin: 0;
 }
 
-.main-content article img {
+.address-section article img {
     grid-column: 1;
 }
 
-.main-content article .info{
+.address-section article .info {
     padding-inline-end: 1em;
     grid-column: 3;
     font-weight: bold;
 }
 
-.main-content article .info li{
+.address-section article .info li {
     display: flex;
     justify-content: space-between
 }
-.main-content article .info li span{
+
+.address-section article .info li span {
     font-weight: 400;
 }
